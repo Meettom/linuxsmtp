@@ -1,0 +1,2 @@
+# linuxsmtp
+Linux通过smtp发送邮件的sh脚本。仅15行代码实现在Centos和Ubuntu里面使用sh脚本发送提醒邮件、告警邮件和通知邮件等。
